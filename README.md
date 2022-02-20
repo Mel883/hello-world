@@ -1,5 +1,5 @@
 # hello-world
 Repository 
 Hi
-I'm a student not native english. 
-I do my best!
+I'm a student. English is not my native language.
+I'll do my best!
